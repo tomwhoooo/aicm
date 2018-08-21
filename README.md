@@ -1,7 +1,7 @@
 # AICM
 aka **A**lternating **I**mputation and **C**orrection **M**ethod
 
-2018 Zhiyue Tom Hu, Yuting Ye, Patrick A. Newbury, Haiyan Huang and Bin Chen
+2018 [Zhiyue Tom Hu](http://tomwho.me), Yuting Ye, Patrick A. Newbury, [Haiyan Huang](http://stat.berkeley.edu/~hhuang/) and [Bin Chen](www.binchenlab.org)
 
 Full paper available at: https://www.biorxiv.org/content/early/2018/08/07/386896
 
